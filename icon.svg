@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <rect width="512" height="512" rx="112" fill="#101110"/>
+  <rect x="30" y="30" width="452" height="452" rx="94" fill="none" stroke="#c7a979" stroke-opacity=".55" stroke-width="3"/>
+  <circle cx="256" cy="256" r="148" fill="#c7a979" fill-opacity=".08" stroke="#c7a979" stroke-opacity=".22" stroke-width="2"/>
+  <path d="M145 184h222M165 213h182" fill="none" stroke="#c7a979" stroke-linecap="round" stroke-opacity=".55" stroke-width="5"/>
+  <text x="256" y="328" fill="#d7bd91" font-family="serif" font-size="178" text-anchor="middle" direction="rtl">ن</text>
+  <circle cx="352" cy="343" r="8" fill="#c7a979"/>
+</svg>
