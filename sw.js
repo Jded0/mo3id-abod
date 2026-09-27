@@ -1,4 +1,4 @@
-const CACHE_VERSION = 'dar-alnokhba-v1';
+const CACHE_VERSION = 'dar-alnokhba-v2';
 const APP_SHELL = [
     './',
     './index.html',
